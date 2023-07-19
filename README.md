@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @xdaruis
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Darius
+- 👀 I love software development and strive to improve our daily lives through innovative solutions and enhancing our technology experiences.
+- 🌱 I’m currently learning more about backend technologies and explore new opportunities in that area.
+- 💞️ I'm open to collaborating on exciting backend software projects, leveraging my skills in C++ and JavaScript to create innovative solutions and drive positive outcomes.
+- 📫 Feel free to contact me at rozdaruis@gmail.com to get in touch or discuss potential collaborations.
 
 <!---
 xdaruis/xdaruis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Darius
+- 👋 Hi, I'm Darius. I'm passionate about problem-solving and thrive on challenges. I enjoy the process of finding innovative solutions for algorithms and constantly expanding my problem-solving skills.
 - 👀 I love software development and strive to improve our daily lives through innovative solutions and enhancing our technology experiences.
 - 🌱 I’m currently learning more about backend technologies and explore new opportunities in that area.
 - 💞️ I'm open to collaborating on exciting backend software projects, leveraging my skills in C++ and JavaScript to create innovative solutions and drive positive outcomes.

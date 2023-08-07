@@ -1,7 +1,7 @@
-- 👋 Hi, I'm Darius! I love solving problems and making things better. I'm into software and learning about the techie stuff that powers everything.
+- 👋 Hi, I'm Darius! I enjoy fixing things and understanding how technology works. I'm exploring software and its inner workings to make cool stuff happen.
 
-- 🌱 Right now, I'm digging into backend tech to discover new things.
+- 🌱 Right now, I'm learning more about backend technology to discover new tricks.
 
-- 💞️ I'm up for teaming up on cool projects. Let's create amazing stuff together!
+- 💞️ I'm up for teaming up on great projects. Let's make something awesome together!
 
-- 📫 Reach me at [rozdaruis@gmail.com](mailto:rozdaruis@gmail.com). Let's chat and make things happen!
+- 📫 You can reach me at [rozdaruis@gmail.com](mailto:rozdaruis@gmail.com). Let's chat and make things happen!

@@ -1,5 +1,6 @@
-<h1 align="center">👋 Hi, I'm Rozemberg Darius Andrei!</h1>- 
-- I enjoy fixing things and understanding how technology works. I'm exploring software and its inner workings to make cool stuff happen.
+<h1 align="center">👋 Hi, I'm Rozemberg Darius Andrei!</h1>
+
+- 🔭 I enjoy fixing things and understanding how technology works. I'm exploring software and its inner workings to make cool stuff happen.
 
 - 🌱 Right now, I'm learning more about backend technology to discover new tricks.
 

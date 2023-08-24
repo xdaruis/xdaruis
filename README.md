@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Rozemberg Darius Andrei!</h1>
 
-- 🔭 I enjoy fixing things and understanding how technology works. I'm exploring software and its inner workings to make cool stuff happen.
+- 🤔 I've always been curious about how things work. That's why I love software engineering—it's like solving puzzles every day, and there's always something new to learn. I enjoy using technology to create cool stuff! 😎
 
-- 🌱 Right now, I'm learning more about backend technology to discover new tricks.
+- 🌱 Right now, I'm learning more about backend technologies.
 
 - 💞️ I'm up for teaming up on great projects. Let's make something awesome together!
 

@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Rozemberg Darius Andrei!</h1>
+<h1 align="center">👋 Hey! I'm Darius!</h1>
 
 - 🤔 I've always been curious about how things work. That's why I love software engineering—it's like solving puzzles every day, and there's always something new to learn. I enjoy using technology to create cool stuff! 😎
 

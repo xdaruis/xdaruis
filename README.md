@@ -1,15 +1,15 @@
 <h1 align="center">👋 Hey! I'm Darius!</h1>
 
-- 🧩 I love software engineering because it's like solving puzzles every day. Currently developing full-stack applications.
+- 🧩 I love software engineering because it's like solving puzzles every day.
 
-- 🤝 Open to collaborating on exciting projects. Let's create something amazing together!
+- 🤝 Currently developing full-stack applications.
 
-- ✉️ Reach me at [rozdaruis@gmail.com](mailto:rozdaruis@gmail.com). Let's chat and get things done!
+- ✉️ Reach me at [rozdaruis@gmail.com](mailto:rozdaruis@gmail.com) for collaboration.
 
-<h3 align="right">
+<h2 align="right">
   Connect with me: 
-<a href="https://www.linkedin.com/in/darius-andrei-rozemberg/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darius-andrei-rozemberg" height="30" width="40" /></a>
-</h3>
+<a href="https://www.linkedin.com/in/darius-andrei-rozemberg/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darius-andrei-rozemberg" height="30" width="30" /></a>
+</h2>
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>

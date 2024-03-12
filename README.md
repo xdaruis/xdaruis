@@ -1,17 +1,15 @@
 <h1 align="center">👋 Hey! I'm Darius!</h1>
 
-- 🤔 I've always been curious about how things work. That's why I love software engineering—it's like solving puzzles every day, and there's always something new to learn. I enjoy using technology to create cool stuff! 😎
+- 🧩 I love software engineering because it's like solving puzzles every day. Currently developing full-stack applications.
 
-- 🌱 Right now, I'm learning more about backend technologies.
+- 🤝 Open to collaborating on exciting projects. Let's create something amazing together!
 
-- 💞️ I'm up for teaming up on great projects. Let's make something awesome together!
+- ✉️ Reach me at [rozdaruis@gmail.com](mailto:rozdaruis@gmail.com). Let's chat and get things done!
 
-- 📫 You can reach me at [rozdaruis@gmail.com](mailto:rozdaruis@gmail.com). Let's chat and make things happen!
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/darius-andrei-rozemberg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darius-andrei-rozemberg" height="30" width="40" /></a>
-</p>
+<h3 align="right">
+  Connect with me: 
+<a href="https://www.linkedin.com/in/darius-andrei-rozemberg/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darius-andrei-rozemberg" height="30" width="40" /></a>
+</h3>
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
